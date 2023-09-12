@@ -1,0 +1,1 @@
+dic = {'mateus':['carro','moto'],'pedro':['bike','moto','maria':['bike','carro'],'jose':['moto','carro'],'tiago':['carro','bici']}
